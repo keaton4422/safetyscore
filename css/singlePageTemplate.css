@@ -227,30 +227,18 @@ footer .footer_column p {
 	color: #FFFFFF;
 	transition: all 0.3s linear;
 }
-.button:hover {
-	background-color: #FEFEFE;
-	color: #C4C4C4;
-	cursor: pointer;
-}
 .copyright {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #717070;
+	background-color: #979797;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	font-weight: lighter;
 	letter-spacing: 2px;
 	border-top-width: 2px;
 }
-.footer_banner {
-	background-color: #B3B3B3;
-	padding-top: 60px;
-	padding-bottom: 60PX;
-	margin-bottom: 0px;
-	background-image: url(../images/pattern.png);
-	background-repeat: repeat;
-}
+
 footer {
 	display: inline-block;
 }
